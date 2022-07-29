@@ -2,7 +2,6 @@ beautifulsoup4==4.11.1
 concise-concepts==0.5.4
 en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.4.0/en_core_web_lg-3.4.0-py3-none-any.whl
 gensim==4.2.0
-nltk==3.7
 notebook==6.4.12
 numpy==1.23.1
 PyMuPDF==1.20.1
